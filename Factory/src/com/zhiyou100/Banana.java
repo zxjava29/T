@@ -4,7 +4,7 @@ public class Banana implements Fruits{
 
 	@Override
 	public void bloom() {
-		System.out.println("香蕉树开花了");
+		System.out.println("香蕉树开花了111");
 	}
 
 	@Override
